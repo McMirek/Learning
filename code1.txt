@@ -2,5 +2,4 @@ Recipe:
 
 1) Add flowerz
 2) add fingerz
-3) add chubekka
 3) add eggs
