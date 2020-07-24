@@ -2,9 +2,8 @@ Recipe BOOK:
 
 Cake Recipe:
 1) Add flowerz
-2) add fingerz
-3) add chubekka
-3) add eggs
+2) add eggs
+3) add milk
 
 Soup Recipe:
 1) Add water
