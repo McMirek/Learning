@@ -19,10 +19,10 @@ Soup Recipe:
 6) hot the tongue
 
 Meat Recipe:
-1) Hunt the galina
-2) Kill the galina
-3) Skin the galina
-4) Put the galina in the T-Rex Trap
-5) Wait 30 min
-6) Go to trap and be sure T-Rex is dead
-7) Have a nice dinner!
+1) hunt the galina
+2) kill the galina
+3) skin the galina
+4) put the galina into the T-rex trap
+5) wait 30 min
+6) be sure the T-rex is dead
+7) have a nice dinner!
