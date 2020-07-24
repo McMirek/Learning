@@ -1,6 +1,14 @@
-Recipe:
+Recipe BOOK:
 
+Cake Recipe:
 1) Add flowerz
 2) add fingerz
 3) add chubekka
 3) add eggs
+
+Soup Recipe:
+1) Add water
+2) Add dado
+
+Meat Recipe:
+1)
